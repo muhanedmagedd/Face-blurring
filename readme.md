@@ -126,6 +126,3 @@ or
 - Face anonymization for CCTV systems
 
 ---
-
-## Author
-Developed by Mohaned Gaming
